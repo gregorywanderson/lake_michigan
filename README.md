@@ -1,1 +1,1 @@
-This directory contains python codes and scripts used for education and workforce deveopment for NEIU/CROCUS. CROCUS (Community Research on Climate and Urban Science)
+This directory contains python codes and scripts used studying Lake Michigan area phenomena including wind, waves, SST, lake breezes and coastal upwellings. 
