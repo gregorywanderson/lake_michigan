@@ -1,0 +1,17 @@
+.env
+*.csv
+*.gz
+__pycache__/
+.ipynb_checkpoints
+
+attic/
+data/
+figures/
+images/
+
+AAANOTES.txt
+buoy_fusion.py
+lake_breeze.ipynb
+lake_breeze.py
+upwelling.py
+*~
